@@ -1,3 +1,3 @@
 # javademos
 
-testing git
+test git
